@@ -20,7 +20,7 @@ def main() -> int:
 
     list_of_names : list = [];
 
-    for i in range(5):
+    for i in range(20):
 
         name = input(f'Name {i + 1}: ');
         list_of_names.append(name);
